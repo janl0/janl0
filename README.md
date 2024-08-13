@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @janl0
-- 👀 I’m interested in Mountainbiking, Coding and Sports in general
-- 🌱 I’m currently learning C++ and practising Python
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
